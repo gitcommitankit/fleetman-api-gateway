@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  fleetman-api-gateway:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2023-04-26T22:17:05.483016393+05:30"
+    description: A Helm chart for Kubernetes
+    digest: a16efdc8bf58175904cdec90a317e5b778390b9a08ad3f756c9c7de3fe1a747e
+    name: fleetman-api-gateway
+    type: application
+    urls:
+    - fleetman-api-gateway-0.1.0.tgz
+    version: 0.1.0
+generated: "2023-04-26T22:17:05.482183514+05:30"
